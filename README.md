@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratyush Goutam</h1>
 <h3 align="center">Full Stack Web developer from India</h3>
-<img img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/-buzIaq-QeoAAAAC/code-coding.gif">
 
 - 🌱 I’m currently learning **full stack web development**
 
