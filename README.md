@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web developer from India</h3>
 <img img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
 
-- 🌱 I’m currently learning **full stack web development**
+- 🌱 I’m currently learning **app development**
 
 - 👯 I’m looking to collaborate on **web development projects**
 
