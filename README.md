@@ -8,6 +8,6 @@
 
 - 💬 Ask me about **Pyhton Programming.**
 
-- 📫 How to reach me **pratg5935@gmail.com**
+- 📫 How to reach me **pratyush8600@gmail.com**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prat555&show_icons=true&locale=en&layout=compact" alt="prat555" /></p>
