@@ -2,8 +2,6 @@
 
 ### Full-Stack Developer | Cloud Enthusiast | Problem Solver
 
-🚀 Building scalable web & mobile solutions | ☁️ AWS Certified | 🧠 Turning coffee into clean code
-
 <p align="left">
   <a href="https://twitter.com/yourhandle" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
