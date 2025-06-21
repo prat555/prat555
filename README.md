@@ -1,67 +1,35 @@
-# 💫 Hi, I'm Pratyush Goutam 👋
+# Pratyush Goutam - Portfolio
 
-### Full Stack Developer | Python Enthusiast | Tech Explorer
+![GitHub Banner](https://via.placeholder.com/1200x400) <!-- Replace with your own banner image -->
 
-🌍 Based in India  
-📧 Reach me at: [pratyush8600@gmail.com](mailto:pratyush8600@gmail.com)  
-🔗 Connect with me: [LinkedIn](#) | [Portfolio](#)  
+## 👋 Hello, I'm Pratyush Goutam
 
----
+A passionate Computer Science student and full-stack developer with expertise in building scalable web applications and AI-powered solutions. Currently pursuing B.Tech in Computer Science with Business Systems at SRM Institute of Science and Technology.
 
-## 🛠 Tech Stack
+- 📫 **Email:** pratyush8600@gmail.com
+- 📞 **Phone:** +91 9315921753
+- 🌐 **Portfolio:** [Your Portfolio Link] <!-- Add your portfolio link -->
+- 💼 **LinkedIn:** [Your LinkedIn Profile] <!-- Add your LinkedIn link -->
+- 💻 **LeetCode:** [Your LeetCode Profile] <!-- Add your LeetCode link -->
+
+## 🛠️ Technical Skills
 
 ### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-## 🔥 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prat555&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prat555&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prat555&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🌱 Currently Learning
-- Mobile App Development (React Native/Flutter)
-- Advanced Python Concepts
-- Cloud Architecture
-
-## 💡 Projects & Collaborations
-I'm actively looking to collaborate on interesting web development projects! Have an idea? Let's discuss.
-
-## ✨ Fun Fact
-When I'm not coding, you'll find me exploring new tech gadgets or reading sci-fi novels!
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prat555&label=Profile%20views&color=0e75b6&style=flat" alt="prat555" /> 
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/yourusername" target="blank"><img src="https://img.shields.io/twitter/follow/yourusername?logo=twitter&style=for-the-badge" alt="yourusername" /></a>
-</p>
+### Technologies & Frameworks
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
