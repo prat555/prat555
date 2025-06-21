@@ -56,19 +56,8 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🔥 GitHub Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
-
-## 🚀 Latest Projects
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo1&theme=dark)](https://github.com/yourusername/repo1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo2&theme=dark)](https://github.com/yourusername/repo2)
-
 ## 💡 Currently Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-📫 How to reach me: [email](mailto:youremail@example.com) | [website](https://yourwebsite.com)
+📫 How to reach me: [email](mailto:youremail@example.com)
