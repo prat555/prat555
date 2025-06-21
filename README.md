@@ -1,6 +1,6 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Pratyush Goutam 👋
 
-### Full Stack Developer & Problem Solver
+### Full Stack Developer, App Developer
 
 I design and build scalable full-stack web applications with a strong focus on performance and user experience. I enjoy solving complex problems using **Python** and am currently expanding my skills in **App Development**.
 
@@ -39,6 +39,7 @@ I design and build scalable full-stack web applications with a strong focus on p
 - 🚀 **System Design & Scalability**
 
 ## 📫 Let's Connect!
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
