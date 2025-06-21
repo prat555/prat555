@@ -22,7 +22,7 @@ I architect **scalable web and mobile applications** with a focus on blazing-fas
 
 ## 🌱 Currently Learning  
 - 📱 **App Development** (Flutter + Supabase)  
-- ☁️ **Cloud & DevOps** (AWS, Kubernetes)  
+- ☁️ **Cloud & DevOps** (AWS, Docker, Kubernetes)  
 - ⚡ **System Design for Scalability**  
 
 ## 📫 Let's Connect!  
