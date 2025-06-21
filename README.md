@@ -65,18 +65,3 @@ When I'm not coding, you'll find me exploring new tech gadgets or reading sci-fi
 <p align="center">
   <a href="https://twitter.com/yourusername" target="blank"><img src="https://img.shields.io/twitter/follow/yourusername?logo=twitter&style=for-the-badge" alt="yourusername" /></a>
 </p>
-
----
-
-⭐️ From [Pratyush](https://github.com/prat555)  
-
-[![GitHub followers](https://img.shields.io/github/followers/prat555.svg?style=social&label=Follow)](https://github.com/prat555)  
-
----
-
-This README is dynamic and updates automatically! Last refresh: <!-- DATE -->  
-[![Updates](https://img.shields.io/badge/dynamic/json?color=blue&label=Last%20Update&query=updated_at&url=https://api.github.com/repos/prat555/prat555)](https://github.com/prat555)  
-
----
-
-🎨 **Credits**: [Readme Template](https://github.com/yourprofile/yourrepo) | [Badges](https://shields.io/) | [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
