@@ -1,6 +1,6 @@
 # Hi, I'm Pratyush Goutam 👋
 
-### Full Stack Developer, App Developer
+### Full Stack Developer & App Developer
 
 I design and build scalable full-stack web applications with a strong focus on performance and user experience. I enjoy solving complex problems using **Python** and am currently expanding my skills in **App Development**.
 
