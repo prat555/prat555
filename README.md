@@ -23,6 +23,6 @@ I architect **scalable web and mobile applications** with a focus on blazing-fas
 - ⚡ **System Design for Scalability**  
 
 ## 📫 Let's Connect!  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://pratyushg.netlify.app/) [![LinkedIn](https://www.linkedin.com/in/pratyush-goutam-387837250/) [![GitHub](https://github.com/prat555) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pratg5935@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://pratyushg.netlify.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyush-goutam-387837250/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/prat555) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pratg5935@gmail.com)  
 
 ⭐ **Fun Fact:** I love tackling algorithmic puzzles on [LeetCode](https://leetcode.com/pratg555/)!  
