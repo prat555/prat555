@@ -18,7 +18,7 @@ I architect **scalable web and mobile applications** with a focus on blazing-fas
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)  
 
 ## 🌱 Currently Learning  
-- 📱 **App Development** (Flutter + Firebase)  
+- 📱 **App Development** (React Native + Firebase)  
 - ☁️ **Cloud & DevOps** (AWS, Docker, Kubernetes)  
 - ⚡ **System Design for Scalability**  
 
