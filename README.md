@@ -1,9 +1,8 @@
-# Hi, I'm Pratyush Goutam 👋  
 ### **Full Stack Developer & App Developer**  
 
 I architect **scalable web and mobile applications** with a focus on blazing-fast performance and intuitive UX. Passionate about solving complex problems with **Python** and modern frameworks, while expanding my expertise in **cross-platform app development**.  
 
-## 🛠️ Technologies & Skills  
+## 🛠️ Technologies & Skills I can use
 
 ### **Languages** 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C/C++](https://img.shields.io/badge/C/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
