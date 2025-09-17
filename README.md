@@ -1,37 +1,107 @@
-vuhkjh### **Full Stack Developer & App Developer**  
+# Hi there! 👋 I'm Pratyush Goutam
 
-I architect **scalable web and mobile applications** with a focus on blazing-fast performance and intuitive UX. Passionate about solving complex problems with **Python** and modern frameworks, while expanding my expertise in **cross-platform app development**.  
+## 🚀 Full Stack Developer & App Architect
 
-## 🛠️ Technologies & Skills I can use
+I craft **scalable web and mobile applications** with a passion for blazing-fast performance and intuitive user experiences. Currently focused on building robust systems with **Python**, modern JavaScript frameworks, and expanding into **cross-platform mobile development**.
 
-### **Languages** 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C/C++](https://img.shields.io/badge/C/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
+```typescript
+const pratyush = {
+  code: ["Python", "JavaScript", "TypeScript", "Java", "Go", "C++"],
+  focus: ["Full Stack Development", "Mobile Apps", "System Design"],
+  architecture: ["Microservices", "Event-Driven", "Serverless"],
+  currentlyLearning: ["AWS Cloud Architecture", "Kubernetes", "Next.js 14"],
+  funFact: "I debug with console.log and I'm not ashamed! 🐛"
+};
+```
 
-### **Frontend & Mobile**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=react&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+## 🛠️ Tech Arsenal
 
-### **Backend & Databases**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) 
+<details>
+<summary><b>🎨 Frontend & Mobile</b></summary>
+<br>
 
-### **Systems & Tools**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
-## 🚀 Currently Learning 
-- **Full-Stack Optimization** (Next.js ISR, Edge Functions)
-- **System Design** (Scalable architectures, distributed systems)
-- **Cloud & DevOps** (AWS, Docker, Kubernetes)
+</details>
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prat555&show_icons=true&theme=radical&hide_border=true&hide_title=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prat555&layout=compact&theme=radical&hide_border=true" height="150"/>
-</p>
+<details>
+<summary><b>⚡ Backend & Databases</b></summary>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prat555&theme=radical&hide_border=true" height="150"/>
-</p>
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-## 📫 Let's Connect!  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://pratyushgoutam.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyush-goutam-387837250/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/prat555) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pratg5935@gmail.com)  
+</details>
 
-⭐ **Fun Fact:** I love tackling algorithmic puzzles on [LeetCode](https://leetcode.com/pratg555/)!
+<details>
+<summary><b>☁️ DevOps & Cloud</b></summary>
+<br>
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</details>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prat555&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prat555&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prat555&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prat555&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1"/>
+</div>
+
+## 🎯 What I'm Up To
+
+- 🔭 Building scalable full-stack applications with **Next.js** and **Python**
+- 🌱 Diving deep into **System Design** and **Cloud Architecture**
+- 👯 Open to collaborating on **innovative web/mobile projects**
+- 🤔 Always exploring the latest in **DevOps** and **Performance Optimization**
+- ⚡ Solving algorithmic challenges on [LeetCode](https://leetcode.com/pratg555/) 
+
+## 💭 Recent Thoughts
+
+> "The best code is like a good joke – if you have to explain it, it's probably not that good."
+
+## 🤝 Let's Build Something Amazing Together!
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://pratyushgoutam.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyush-goutam-387837250/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratg5935@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/pratg555/)
+
+</div>
+
+<div align="center">
+  
+### 💡 "Code is poetry written in logic"
+
+![Profile Views](https://komarev.com/ghpvc/?username=prat555&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+<i>⭐️ From [prat555](https://github.com/prat555)</i>
+</div>
