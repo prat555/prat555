@@ -6,9 +6,17 @@ const pratyush = {
   focus: ["Full Stack Development", "Mobile Apps", "System Design"],
   architecture: ["Microservices", "Event-Driven", "Serverless"],
   currentlyLearning: ["AWS Cloud Architecture", "Kubernetes", "Next.js 14"],
-  funFact: "I debug with console.log and I'm not ashamed! 🐛"
+  funFact: "I debug with console.log and I'm not ashamed!"
 };
 ```
+
+## Tech Stack
+
+**Languages:** Python, C, C++, Java, JavaScript, TypeScript, SQL  
+**Frontend:** React, Vite, Next.js, React Native, TailwindCSS, Shadcn/UI, Gluestack  
+**Backend & Database:** Node.js, Express.js, MongoDB, PostgreSQL, Firebase, REST APIs  
+**Developer Tools:** Git, GitHub, Vercel, Render, Expo, Mongoose, VS Code, Google Colab  
+
 
 ## GitHub Stats
 <div align="center">
