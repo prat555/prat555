@@ -1,20 +1,99 @@
-# Pratyush Goutam
+# Hi there! I'm Pratyush Goutam 👋
 
-Full Stack Developer building scalable web and mobile applications with **Python** and modern JavaScript frameworks.
+## Full Stack Developer & App Architect
 
-## Tech Stack
+I craft **scalable web and mobile applications** with a passion for blazing-fast performance and intuitive user experiences. Currently focused on building robust systems with **Python**, modern JavaScript frameworks, and expanding into **cross-platform mobile development**.
 
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
-**Backend:** Python, Node.js, PostgreSQL, MongoDB  
-**Tools:** AWS, Docker, Git, Linux
+```typescript
+const pratyush = {
+  code: ["Python", "JavaScript", "TypeScript", "Java", "Go", "C++"],
+  focus: ["Full Stack Development", "Mobile Apps", "System Design"],
+  architecture: ["Microservices", "Event-Driven", "Serverless"],
+  currentlyLearning: ["AWS Cloud Architecture", "Kubernetes", "Next.js 14"],
+  funFact: "I debug with console.log and I'm not ashamed! 🐛"
+};
+```
 
-## Stats
+## 🛠️ Tech Arsenal
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prat555&show_icons=true&theme=minimal&hide_border=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prat555&theme=minimal&hide_border=true" height="165"/>
-</p>
+<details>
+<summary><b>🎨 Frontend & Mobile</b></summary>
+<br>
 
-## Connect
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
-[Portfolio](https://pratyushgoutam.me/) • [LinkedIn](https://www.linkedin.com/in/pratyush-goutam-387837250/) • [Email](mailto:pratg5935@gmail.com) • [LeetCode](https://leetcode.com/pratg555/)
+</details>
+
+<details>
+<summary><b>⚡ Backend & Databases</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>☁️ DevOps & Cloud</b></summary>
+<br>
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</details>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prat555&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prat555&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prat555&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prat555&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1"/>
+</div>
+
+## What I'm Up To
+
+- Building scalable full-stack applications with **Next.js** and **Python**
+- Diving deep into **System Design** and **Cloud Architecture**
+- Open to collaborating on **innovative web/mobile projects**
+- Always exploring the latest in **DevOps** and **Performance Optimization**
+- Solving algorithmic challenges on [LeetCode](https://leetcode.com/pratg555/) 
+
+## Recent Thoughts
+
+> "The best code is like a good joke – if you have to explain it, it's probably not that good."
+
+## Let's Build Something Amazing Together!
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://pratyushgoutam.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyush-goutam-387837250/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratg5935@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/pratg555/)
+
+</div>
+
+<div align="center">
+  
+### 💡 "Code is poetry written in logic"
+
+![Profile Views](https://komarev.com/ghpvc/?username=prat555&color=blueviolet&style=for-the-badge)
