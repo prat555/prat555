@@ -17,7 +17,7 @@ const pratyush = {
 ## 🛠️ Tech Arsenal
 
 <details>
-<summary><b>🎨 Frontend & Mobile</b></summary>
+<summary><b>Frontend & Mobile</b></summary>
 <br>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -30,7 +30,7 @@ const pratyush = {
 </details>
 
 <details>
-<summary><b>⚡ Backend & Databases</b></summary>
+<summary><b>Backend & Databases</b></summary>
 <br>
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -43,7 +43,7 @@ const pratyush = {
 </details>
 
 <details>
-<summary><b>☁️ DevOps & Cloud</b></summary>
+<summary><b>DevOps & Cloud</b></summary>
 <br>
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
