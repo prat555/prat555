@@ -54,15 +54,11 @@ const pratyush = {
 
 </details>
 
-## 📈 GitHub Analytics
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prat555&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prat555&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prat555&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1"/>
 </div>
 
 ## What I'm Up To
@@ -72,7 +68,3 @@ const pratyush = {
 - Open to collaborating on **innovative web/mobile projects**
 - Always exploring the latest in **DevOps** and **Performance Optimization**
 - Solving algorithmic challenges on [LeetCode](https://leetcode.com/pratg555/) 
-
-## Recent Thoughts
-
-> "The best code is like a good joke – if you have to explain it, it's probably not that good."
