@@ -62,10 +62,6 @@ const pratyush = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prat555&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=prat555&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1"/>
 </div>
 
@@ -80,20 +76,3 @@ const pratyush = {
 ## Recent Thoughts
 
 > "The best code is like a good joke – if you have to explain it, it's probably not that good."
-
-## Let's Build Something Amazing Together!
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://pratyushgoutam.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyush-goutam-387837250/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratg5935@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/pratg555/)
-
-</div>
-
-<div align="center">
-  
-### 💡 "Code is poetry written in logic"
-
-![Profile Views](https://komarev.com/ghpvc/?username=prat555&color=blueviolet&style=for-the-badge)
