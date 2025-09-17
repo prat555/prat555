@@ -1,8 +1,8 @@
 # Hey there! I'm Pratyush 👋
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;App+Architect;Performance+Enthusiast" alt="Typing SVG" />
 </div>
-<div align="center">
   
 I craft **scalable web and mobile applications** with a passion for blazing-fast performance and intuitive user experiences. Currently focused on building robust systems with **Python**, modern JavaScript frameworks, and expanding into **cross-platform mobile development**.
 ```typescript
