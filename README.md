@@ -4,7 +4,6 @@
 </div>
 <div align="center">
   
-## Full Stack Developer & App Architect
 I craft **scalable web and mobile applications** with a passion for blazing-fast performance and intuitive user experiences. Currently focused on building robust systems with **Python**, modern JavaScript frameworks, and expanding into **cross-platform mobile development**.
 ```typescript
 const pratyush = {
