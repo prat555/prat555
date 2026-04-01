@@ -1,3 +1,1 @@
-## Hi, I'm Pratyush 
-Software Engineer — building reliable, well-crafted software
-
+## Hi, I,m Pratyush.
